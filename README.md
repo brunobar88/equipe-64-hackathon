@@ -1,2 +1,4 @@
-# equipe-64-hackathon
-equipe:  Fernando Vier, Bruno B. Zanella, Vinicius Brejinski, Julia, Lucas, Miguel
+# Rota-64
+### equipe:  Fernando, Bruno, Vinicius, Julia, Lucas, Miguel
+
+
