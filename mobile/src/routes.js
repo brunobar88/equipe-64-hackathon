@@ -17,8 +17,8 @@ const Routes = () => {
                     backgroundColor: '#f0f0f5'
                 }    
             }}>
-            <appStack.Screen name="Home" component={Home}/>
             <appStack.Screen name="Login" component={Login}/>
+            <appStack.Screen name="Home" component={Home}/>
             <appStack.Screen name="Navigation" component={Navigation}/>
             <appStack.Screen name="DetailPoint" component={DetailPoint}/>
             </appStack.Navigator>
