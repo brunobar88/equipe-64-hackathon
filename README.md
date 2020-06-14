@@ -9,6 +9,9 @@
   * O react-native foi ultilizado juntamente ao expo facilitando e ajilizando o desenvolvimento
   * foram ultilizadas bibliotecas de mapas e de roteamento entre telas disponibilizadas pelo npm
   
+  ![](Tela inicial.png)
+  ![](telaHome.png)
+  
 #### para um futuro da plataforma
   * Para o futuro pretendemos disponibilizar
     vouchers de abastecimento para caminhoneiros que sejam cadastrados e ativos na plataforma.
