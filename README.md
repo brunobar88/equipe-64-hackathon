@@ -9,7 +9,7 @@
   * O react-native foi ultilizado juntamente ao expo facilitando e ajilizando o desenvolvimento
   * foram ultilizadas bibliotecas de mapas e de roteamento entre telas disponibilizadas pelo npm
   
-  ![](Tela inicial.png)
+  ![](TelaInicial.png)
   ![](telaHome.png)
   
 #### para um futuro da plataforma
